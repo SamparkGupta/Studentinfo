@@ -4,6 +4,7 @@ public class Studentinfo{
     System.out.println("Winning camp");
     System.out.println("changed");
     System.out.println("again");
+    System.out.println(" and again");
 }
 }
 
